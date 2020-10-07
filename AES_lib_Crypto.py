@@ -21,7 +21,7 @@ message="nice to meet you"
 print(message)
     
 #encrypt
-enc=encrypt(key_state, in_state)
+enc=encrypt(key, message)
 print(enc)
 
 #decrypt
