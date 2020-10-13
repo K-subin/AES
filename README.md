@@ -4,8 +4,14 @@
 - Crypto 모듈 이용해서 AES Cipher 암호화 복호화 라이브러리 구현
 
 ### 블로그 정리
+#### AES 구조
+https://cryptosecurity.tistory.com/29
+
 #### AES, Hash 구현 - Crypto 모듈 이용
 https://cryptosecurity.tistory.com/category/Cipher%20analysis/AES
+
+#### AES 모듈 없이 구현
+https://cryptosecurity.tistory.com/30?category=841753
 
 ### 실행결과
 #### AES_lib_Crypto.py 실행결과
